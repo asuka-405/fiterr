@@ -1,0 +1,12 @@
+{
+  "name": "fiterr",
+  "version": "1.0.0",
+  "description": "iterate directories and operate on files and directories",
+  "main": "index.js",
+  "repository": "https://github.com/asuka-405/fiterr.git",
+  "author": "Suryansh Kapil <suryanshkapil405@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.5.0"
+  }
+}
