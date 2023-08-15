@@ -1,6 +1,6 @@
 {
   "name": "fiterr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "iterate directories and operate on files and directories",
   "main": "index.js",
   "repository": "https://github.com/asuka-405/fiterr.git",
