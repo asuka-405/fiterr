@@ -4,9 +4,27 @@
   "description": "iterate directories and operate on files and directories",
   "main": "index.js",
   "repository": "https://github.com/asuka-405/fiterr.git",
-  "author": "Suryansh Kapil <suryanshkapil405@gmail.com>",
+  "author": {
+    "name": "Suryansh Kapil <suryanshkapil405@gmail.com>",
+    "url": "https://suryansh405.netlify.app"
+  },
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.5.0"
-  }
+  },
+  "keywords": [
+    "directory",
+    "iteration",
+    "traversal",
+    "file",
+    "folder",
+    "iterate",
+    "callback",
+    "function",
+    "utility",
+    "npm",
+    "node",
+    "filesystem",
+    "iterative"
+  ]
 }
